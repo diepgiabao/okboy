@@ -1,4 +1,4 @@
 localizable==0.1.2
 requests==2.22.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 PyYAML==5.1.1
